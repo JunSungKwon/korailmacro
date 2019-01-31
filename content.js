@@ -139,5 +139,4 @@ if (document.URL.substring(0, dsturl1.length) == dsturl1 ||
 			}
 		}
 	});
-
 }
